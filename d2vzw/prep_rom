@@ -128,6 +128,10 @@ cp -aRf $miui_path/system/lib/libmp3lame.so $port_path/system/lib/libmp3lame.so;
 cp -aRf $miui_path/system/lib/libpatcher_jni.so $port_path/system/lib/libpatcher_jni.so;
 cp -aRf $miui_path/system/lib/libphotocli.so $port_path/system/lib/libphotocli.so;
 cp -aRf $miui_path/system/lib/libMiuiGalleryJNI.so $port_path/system/lib/libMiuiGalleryJNI.so;
+cp -aRf $miui_path/system/lib/libdigit_ocr.so $port_path/system/lib/libdigit_ocr.so;
+cp -aRf $miui_path/system/lib/liblocSDK3.so $port_path/system/lib/liblocSDK3.so;
+cp -aRf $miui_path/system/lib/libvideochat_jni.so $port_path/system/lib/libvideochat_jni.so;
+cp -aRf $miui_path/system/lib/libvideochat_stabilize.so $port_path/system/lib/libvideochat_stabilize.so;
 
 
 ## Copy fonts folder
